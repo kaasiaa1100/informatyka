@@ -1,1 +1,7 @@
-blablabla
+a = input('Podaj a:')
+b = input('Podaj b:')
+
+suma = a + b
+różnica = a-b
+iloczyn = a*b
+iloraz = a/b
